@@ -2,7 +2,7 @@ package com.SwitchCases;
 
 import java.util.Scanner;
 
-public class Restaurant1 {
+public class Restaurant {
 
 	double Chickentandoori = 175;
 	double Chickentikka = 160;
@@ -175,7 +175,7 @@ public class Restaurant1 {
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 		System.out.println("Welcome to 5 Star Restaurant");
-		Restaurant1 Y = new Restaurant1();
+		Restaurant Y = new Restaurant();
 		Y.Menu(sc);
 
 	}
