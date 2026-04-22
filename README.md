@@ -125,12 +125,9 @@ Total Amount: 350
 
 ---
 
-## 📞 Author
-
-**Abdul Azeez**
-
-* 📧 [azeezazeez7989@gmail.com](mailto:azeezazeez7989@gmail.com)
-* 📍 Hyderabad, Telangana
+## 👨‍💻 Author **Azeez** 
+📌 Open to opportunities in **Java Full Stack Development** --- 
+## ⭐ Support If you like this project, give it a ⭐ on GitHub!
 
 ---
 
