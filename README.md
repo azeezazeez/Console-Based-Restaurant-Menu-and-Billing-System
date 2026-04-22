@@ -85,7 +85,7 @@ Restaurant.java
 1. Clone the repository:
 
 ```
-git clone https://github.com/azeezazeez/Console-Based-Restaurant-Menu-and-Billing-System
+https://github.com/azeezazeez/Console-Based-Restaurant-Menu-and-Billing-System
 ```
 
 2. Compile the program:
