@@ -35,7 +35,7 @@ This application allows users to select food items from different categories and
 ## 📂 Project Structure
 
 ```
-Restaurant1.java
+Restaurant.java
 ```
 
 ---
@@ -85,19 +85,19 @@ Restaurant1.java
 1. Clone the repository:
 
 ```
-git clone https://github.com/azeezazeez/restaurant-billing-system.git
+git clone https://github.com/azeezazeez/Console-Based-Restaurant-Menu-and-Billing-System
 ```
 
 2. Compile the program:
 
 ```
-javac Restaurant1.java
+javac Restaurant.java
 ```
 
 3. Run the program:
 
 ```
-java Restaurant1
+java Restaurant
 ```
 
 ---
