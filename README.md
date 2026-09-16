@@ -1,6 +1,7 @@
+<div align="center">
+
 # 🍽️ RESTAURANT MENU & BILLING SYSTEM
 
-<div align="center">
 
 ### 🍗 Menu Selection • 🔢 Quantity Billing • ⚡ Instant Calculation
 
